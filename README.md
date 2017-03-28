@@ -1,2 +1,2 @@
-# Skole
+# AVR programering
 Diversjeoppgaver og lab
